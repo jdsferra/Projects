@@ -10,7 +10,10 @@ Homebrew:
   https://brew.sh/
 Tmux:
 https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
-  https://tmuxcheatsheet.com/
+https://tmuxcheatsheet.com/
+https://arcolinux.com/everthing-you-need-to-know-about-tmux-panes/
+  config:
+https://www.hostinger.com/tutorials/tmux-config
 
 Mac Terminal Commands
 https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/
