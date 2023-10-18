@@ -104,3 +104,6 @@ got a rough working version of the makeAIShexachords function. gnarly because it
 cracked hexachords and nonachords today!
 ## 9/22
 cracked pentachords!
+
+## 10/17
+got all poss info into JSON's- angels/rejects, calculatordict. RUN is functioning right, takes in the dict and 3-12 non-repeating int arguments.
